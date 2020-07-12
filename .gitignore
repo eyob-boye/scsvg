@@ -1,0 +1,4 @@
+pyenv/
+venv/
+.vscode/settings.json
+*.pyc
