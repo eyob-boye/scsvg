@@ -1,0 +1,4 @@
+PySide2==5.14.2.1
+pysvg-py3==0.2.2.post3
+shiboken2==5.14.2.1
+
